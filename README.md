@@ -3,7 +3,7 @@
 固定内でだけ使う予定なのでここも周回後は消えます
 
 # ダウンロード
-
+とりあえず[__★ここ★__](https://github.com/hinamurayayo/DanzetsuSim/releases/download/beta0/DanzetsuSim.zip)からどうぞ
 # 操作とか
 
 # 禁止事項とか
