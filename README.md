@@ -4,7 +4,9 @@
 
 # ダウンロード
 とりあえず[__★ここ★__](https://github.com/hinamurayayo/DanzetsuSim/releases/download/beta0/DanzetsuSim.zip)からどうぞ
+
 # 操作とか
+あとでかく
 
 # 禁止事項とか
 ### ・固定の外に持ち出すこと
