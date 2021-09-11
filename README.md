@@ -23,3 +23,4 @@
 ポークシーになってしまう
 
 ### ・ポンポン茶を買い占める
+![20200608153220](https://user-images.githubusercontent.com/90408313/132955157-1ee82f71-5f9a-4926-a8ce-4023730da5b3.jpg)
