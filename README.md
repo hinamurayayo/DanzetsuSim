@@ -2,6 +2,9 @@
 リリティア式の断絶シミュレーターがなかったので作りました
 固定内でだけ使う予定なのでここも周回後は消えます
 
+![sampleyayoo](https://user-images.githubusercontent.com/90408313/132955980-e1d9c855-743c-4ff7-8c6f-5b759ce3e211.gif)
+
+
 # ダウンロード
 とりあえず[__★ここ★__](https://github.com/hinamurayayo/DanzetsuSim/releases/download/beta0/DanzetsuSim.zip)からどうぞ
 
