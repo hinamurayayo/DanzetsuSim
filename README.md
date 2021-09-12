@@ -22,7 +22,7 @@
 <img width="500" alt="info4" src="https://user-images.githubusercontent.com/90408313/132967019-a8574d1e-f7b9-4589-8c74-9c3bdd88100a.PNG">
 
 5.機工城アレキサンダーを潰せ！！！！！！<br>
-　デフォルトで「サイコロ」「ボス位置」「懺悔」全ての要素がランダムですが、
+　デフォルトで「サイコロ」「ボス位置」「懺悔」全ての要素がランダムですが、<br>
   任意で特定のパターンだけ練習することも出来ます。
 <img width="500" alt="info5" src="https://user-images.githubusercontent.com/90408313/132967036-84212d4b-7ccc-4077-ab51-50ff0b00a9f8.PNG">
 
