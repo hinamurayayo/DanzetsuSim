@@ -6,8 +6,23 @@
 ![sampleyayoo](https://user-images.githubusercontent.com/90408313/132955980-e1d9c855-743c-4ff7-8c6f-5b759ce3e211.gif)
 
 
-# ダウンロード
-とりあえず[__★ここ★__](https://github.com/hinamurayayo/DanzetsuSim/releases/download/beta0/DanzetsuSim.zip)からどうぞ
+# ダウンロード＆起動
+とりあえず[__★ここ★__](https://github.com/hinamurayayo/DanzetsuSim/releases/download/beta0/DanzetsuSim.zip)からどうぞ<br>
+
+1.ダウンロードが完了し、ZIPファイルを解凍したら「DanzetsuSim.exe」をダブルクリックで起動しましょう<br>
+<img width="500" alt="info1" src="https://user-images.githubusercontent.com/90408313/132966917-764d144d-b696-459a-a147-6f57233a9058.PNG">
+
+2.こんな画面が起動します。「ホットキー設定」を押してスプリントとアムレンのキーを設定しましょう<br>
+<img width="500" alt="info2" src="https://user-images.githubusercontent.com/90408313/132966960-e3b8d413-452e-463a-b34f-6cd62552e136.PNG">
+
+3.キー設定「None(なし)」になっちゃってるので、お好きなキーを設定しましょう<br>
+<img width="500" alt="info3" src="https://user-images.githubusercontent.com/90408313/132967016-7fa2dc87-1d69-454f-b984-c4aa30f84bfa.PNG">
+
+4.設定したら一度タイトルに戻り、「プレイ」→「断絶(リリティア)」<br>
+<img width="500" alt="info4" src="https://user-images.githubusercontent.com/90408313/132967019-a8574d1e-f7b9-4589-8c74-9c3bdd88100a.PNG">
+
+5.機工城アレキサンダーを潰せ！！！！！！<br>
+<img width="500" alt="info5" src="https://user-images.githubusercontent.com/90408313/132967036-84212d4b-7ccc-4077-ab51-50ff0b00a9f8.PNG">
 
 # 操作とか
 __起動したら最初にアムレンとスプリントのキー設定をしてください__<br>
@@ -25,7 +40,9 @@ __起動したら最初にアムレンとスプリントのキー設定をして
 # 既知のバグ
 ### NPCが死ぬ
 直線移動しかできないので結構死にます。<br>
-気になるようだったら直します・・・
+死んでもギミックは問題なく続くので、<br>
+気になるようだったら直します・・・<br>
+
 
 # よくある質問
 ### ・音ないけど？
